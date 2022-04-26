@@ -12,6 +12,6 @@
 
 ![image](https://user-images.githubusercontent.com/60348867/165203304-581084b2-64e0-49c3-a096-f5d8dcdbd86d.png)
 
-补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~
+补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
 
 1. https://github.com/AccumulateMore
