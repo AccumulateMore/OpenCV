@@ -1,6 +1,6 @@
 # OpenCV
 
-最细致的 OpenCV 笔记
+最全面的 OpenCV 笔记
 
 参考文献：（ 30万播放量 ）
 
