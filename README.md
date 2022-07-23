@@ -14,7 +14,7 @@
 
 备注：笔记是用Jupyter Notebook打开的，可以看下面链接，进入“00_Python编辑器”中，里面有我写的笔记，或者百度、谷歌查一查“如何运行Jupyter notebook文件”即可。
 
-https://github.com/AccumulateMore/Python
+1. https://github.com/AccumulateMore/Python
 
 补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
 
