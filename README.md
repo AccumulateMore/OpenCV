@@ -2,7 +2,7 @@
 
 最全面的 OpenCV 笔记
 
-参考文献：（ 30万播放量 ）
+参考文献：（ 42万播放量 ）
 
 1. https://www.bilibili.com/video/BV1PV411774y?from=search&seid=128144269248922245&spm_id_from=333.337.0.0
 
