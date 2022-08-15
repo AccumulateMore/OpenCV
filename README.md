@@ -1,10 +1,10 @@
 # 最全面的 OpenCV 笔记
 
-视频讲解：
+视频讲解
 
 1. https://www.bilibili.com/video/BV1PV411774y?from=search&seid=128144269248922245&spm_id_from=333.337.0.0
 
-项目代码及数据集：
+项目代码及数据集
 
 1. 链接：https://pan.baidu.com/s/1TICHGqUkAUM-c0BoeogPrA  提取码：abii 
 
