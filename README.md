@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/60348867/184643101-037c58ad-113c-490b-b0b7-e8ff412bd5f8.png)
 
-备注：有问题不会的，需要帮助的，可以加下面私人微信
+备注：有碰到异常情况的，或需要帮助的，可以加下面私人微信。
 
 ![0dcb9adb76a0c2d0e62657e33c5a9ef](https://user-images.githubusercontent.com/60348867/186914289-5a2c7828-1c9d-4cd9-a8f0-8b9f9992422a.jpg)
 
