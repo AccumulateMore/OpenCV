@@ -16,4 +16,4 @@
 
 1. https://github.com/AccumulateMore
 
-"♥我的笔记，希望对你有帮助，不用谢♥"
+"♥我的笔记，希望对你有帮助♥"
