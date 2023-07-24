@@ -1,6 +1,6 @@
 # 最全面的 OpenCV 笔记
 
-视频讲解【主讲人：咕泡唐宇迪】：
+视频讲解【主讲方：咕泡唐宇迪】
 
 1. https://www.bilibili.com/video/BV1PV411774y?from=search&seid=128144269248922245&spm_id_from=333.337.0.0
 
@@ -16,9 +16,15 @@
 
 ![image](https://user-images.githubusercontent.com/60348867/200466242-0430e964-41d0-42ff-8553-8cb88ef927e5.png)
 
-补充：我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
+补充：
 
-1. https://github.com/AccumulateMore
+1. 我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
+
+https://github.com/AccumulateMore
+
+我的知乎主页，还有其他领域的笔记，希望能帮助到你~~♥
+
+1. https://www.zhihu.com/people/bao-bei-ru-huai
 
 "♥我的笔记，希望对你有帮助♥"
 
