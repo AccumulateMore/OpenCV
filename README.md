@@ -18,9 +18,9 @@
 
 补充：
 
-1. 我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
+我的Github主页，还有其他优秀视频的笔记，希望能帮助到你~~♥
 
-https://github.com/AccumulateMore
+1. https://github.com/AccumulateMore
 
 我的知乎主页，还有其他领域的笔记，希望能帮助到你~~♥
 
