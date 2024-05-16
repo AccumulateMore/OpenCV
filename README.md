@@ -6,7 +6,9 @@
 
 项目代码及数据集：
 
-1. 链接：https://pan.baidu.com/s/1PiIaO7jldLC-O5RQzKvGJA 提取码：vt2m 
+1. 链接：https://pan.baidu.com/s/1PiIaO7jldLC-O5RQzKvGJA 提取码：vt2m
+
+补充说明：数据集链接如果失效了，下面有微信，可以联系我。
 
 备注：
 
