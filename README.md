@@ -36,9 +36,9 @@
 
 1. https://www.zhihu.com/people/bao-bei-ru-huai
 
-我的哔哩哔哩 （未来更新商业级项目~）
+我的哔哩哔哩, 大模型、多模态笔记【手把手教你做科研 更新ing】，希望能帮助到你~
 
-1. https://space.bilibili.com/402601153?spm_id_from=333.788.0.0
+1. https://www.bilibili.com/video/BV1xM4m1m7vA/?spm_id_from=333.999.0.0&vd_source=c9745e4447536b28b2b0735071d30bd6
    
 "♥我的笔记，希望对你有帮助♥"
 
