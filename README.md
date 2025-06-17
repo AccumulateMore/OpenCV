@@ -4,7 +4,7 @@
 
 视频讲解【主讲方：咕泡唐宇迪】
 
-1. https://www.bilibili.com/video/BV1PV411774y?from=search&seid=128144269248922245&spm_id_from=333.337.0.0
+1. https://www.bilibili.com/video/BV1YnELzfEFZ?spm_id_from=333.788.videopod.episodes&vd_source=c9745e4447536b28b2b0735071d30bd6&p=7
 
 笔记数据集：
 
