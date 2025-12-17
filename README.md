@@ -6,7 +6,7 @@
 
 1. https://www.bilibili.com/video/BV1YnELzfEFZ
 
-笔记数据集：
+笔记数据集（无偿分享）：
 
 1. 链接：https://pan.baidu.com/s/1PiIaO7jldLC-O5RQzKvGJA 提取码：vt2m
 
